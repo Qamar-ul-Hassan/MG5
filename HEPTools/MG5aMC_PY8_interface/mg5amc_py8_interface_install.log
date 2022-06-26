@@ -1,0 +1,5 @@
+------------------------------------------------
+MG5aMC_PY8_interface compilation output log:
+b'g++ MG5aMC_PY8_interface.cc -o MG5aMC_PY8_interface -I/home/qamar/software/MG5_aMC_v3_4_0/HEPTools/hepmc/include -I/home/qamar/software/MG5_aMC_v3_4_0/HEPTools/pythia8//include -ldl -fPIC -lstdc++ -std=c++11 -DHEPMC2HACK -DGZIP -I/home/qamar/software/MG5_aMC_v3_4_0/HEPTools/zlib/include -L/home/qamar/software/MG5_aMC_v3_4_0/HEPTools/zlib/lib -Wl,-rpath,/home/qamar/software/MG5_aMC_v3_4_0/HEPTools/zlib/lib -lz -L/home/qamar/software/MG5_aMC_v3_4_0/HEPTools/pythia8//lib -Wl,-rpath,/home/qamar/software/MG5_aMC_v3_4_0/HEPTools/pythia8//lib -lpythia8 -ldl -L/home/qamar/software/MG5_aMC_v3_4_0/HEPTools/hepmc/lib -Wl,-rpath,/home/qamar/software/MG5_aMC_v3_4_0/HEPTools/hepmc/lib -lHepMC\n'
+------------------------------------------------
+Successful compilation of the MG5aMC_PY8_interface.
